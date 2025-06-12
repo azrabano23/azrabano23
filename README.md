@@ -51,7 +51,17 @@ Hey GitHub 👋 I'm Azra — a builder, leader, and technologist passionate abou
 
 ---
 
-### 🚧 Featured Projects
+### 📌 Projects I'm Proud Of
+
+- 🧠 **[Project Reverie](https://github.com/azrabano23/ProjectReverie)** — *AR/VR memory bubbles for Alzheimer's patients*  
+  Built in Unity + MRTK for Microsoft HoloLens, this immersive experience helps trigger memory recall through interactive visual “bubbles” of personal moments.
+- 🚗 [CureBytes2024](https://github.com/azrabano23/CureBytes2024)
+- 🔥 [Beacon](https://github.com/azrabano23/Beacon)
+- ✨ [SketchFlow2025](https://github.com/azrabano23/sketchflow2025)
+- 🧠 [travelingsalesperson1](https://github.com/azrabano23/travelingsalesperson1)
+
+
+### More Featured Projects
 
 | Project | One-liner |
 |--------|-----------|
@@ -73,7 +83,7 @@ Hey GitHub 👋 I'm Azra — a builder, leader, and technologist passionate abou
 - 🧪 **NASA / NSF / Yale Med** – R1 Researcher across hardware and AI
 - 🏛️ **Student Government Leader** – Representing 40,000+ Rutgers students
 - 💬 **Public Speaker** – MARK Conference, RSVP, IEEE, and innovation panels
-- 🚀 **Goldman Sachs SWE Intern** – Engineering First-Year Program
+- 🚀 **Goldman Sachs SWE First Year Program** – Engineering First-Year Program
 
 ---
 
