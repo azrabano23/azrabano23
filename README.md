@@ -1,37 +1,67 @@
-# Hi, I'm Azra Bano 👋
+# 👋 Hi, I'm Azra Bano
 
-🚀 Software Engineer | Full-Stack Developer | R1 Researcher  
-💡 Tech Policy Advocate | Non-Profit Founder | Rutgers Engineer  
-🌎 Based in New York  
-📬 ab2895@scarletmail.rutgers.edu  
-🔗 [azra-bano.com](https://azra-bano.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/meetazrabano)
+🚀 Software Engineer | 🔬 R1 Researcher | 🧠 Ethical AI Advocate | 👩🏻‍💻 Rutgers Engineer  
+🌐 Building across AI, finance, healthcare, and wearables — from Goldman Sachs to NASA.
 
----
-
-### 📈 GitHub Stats
-
-![Azra's GitHub stats](https://github-readme-stats.vercel.app/api?username=azrabano23&show_icons=true&theme=radical)
+[![Website](https://img.shields.io/badge/Portfolio-azra--bano.com-blue?style=flat-square&logo=google-chrome)](https://azra-bano.com)
+[![Email](https://img.shields.io/badge/Email-ab2895@scarletmail.rutgers.edu-blue?style=flat-square&logo=gmail)](mailto:ab2895@scarletmail.rutgers.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Azra%20Bano-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/azrabano)
 
 ---
 
-### 🔥 GitHub Contribution Graph
+### 💼 About Me
+Hey GitHub 👋 I'm Azra — a builder, leader, and technologist passionate about creating **technology that listens, learns, and leads**.
 
-[![Azra's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=azrabano23&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+🛠 I'm a sophomore at Rutgers–New Brunswick, double majoring in **ECE + CS**, minoring in **PPE + Data Science**, and dreaming big:  
+→ Ethical AI that serves society — not just scales.
 
----
-
-### 📊 Languages I Use
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azrabano23&layout=compact&theme=radical)
+**Fun Fact**: I'm a die-hard Celtics fan ☘️
 
 ---
 
-### 📌 Projects I'm Proud Of
+### 🌟 What I Bring to the Table
 
-- 🚗 [CureBytes2024](https://github.com/azrabano23/CureBytes2024)
-- 🔥 [Beacon](https://github.com/azrabano23/Beacon)
-- ✨ [SketchFlow2025](https://github.com/azrabano23/sketchflow2025)
-- 🧠 [travelingsalesperson1](https://github.com/azrabano23/travelingsalesperson1)
+- 💻 **Full-stack engineering** — React, Node.js, Flask, Firebase, SQL, Docker
+- 🤖 **AI/ML models** — LSTM, Reinforcement Learning, NLP, Recommendation Engines
+- 📊 **Data Science** — Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, PowerBI
+- 🔐 **Finance + Systems** — Java, C++, MATLAB, Git, AWS, Oracle SQL, Azure
+- 🔬 **Interdisciplinary depth** — R1 research, startup leadership, political advocacy
 
-added profile README
+---
+
+### 🚧 Featured Projects
+
+| Project | One-liner |
+|--------|-----------|
+| 🧠 **OptiFund** | AI-based portfolio optimizer using Modern Portfolio Theory + Reinforcement Learning |
+| 🚗 **BMWise** | Stock simulator for BMW using ARIMA, LSTM, and sentiment data |
+| 🌿 **Elysian** | Wearable tech startup tracking skin biomarkers with nanotech sensors |
+| 🔥 **Beacon** | AI-powered wildfire detection using NASA data and Google Maps API |
+| 📈 **CureBytes** | Healthcare analytics model built at Rutgers Health Hackathon ($1K prize) |
+| 🗺 **RUMaps** | Java graph pathfinding engine for Rutgers campus navigation |
+| 🐾 **SmartCatIsland** | Simulation of autonomous cat agents making decisions with tree-based logic |
+
+---
+
+### 💡 GitHub Highlights
+
+- 🟢 20+ Repositories across simulations, data structures, AI, and full-stack projects
+- 💬 Languages used: Java • Python • JavaScript • C++ • SQL • Bash • HTML/CSS • R
+- 🌱 Actively contributing to open-source and building startup MVPs
+
+---
+
+### 📈 Contribution Activity (Last 30 Days)
+[![Azra's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=azrabano23&theme=rogue)](https://github.com/azrabano23)
+
+---
+
+### ✨ Let’s Connect
+I'm on a mission to **build for impact, lead with purpose**, and help shape the future of technology.
+
+- 🔭 Open to SWE roles, research positions, and impact-driven innovation fellowships
+- 🌐 Interests: Ethical AI, fintech, AR/VR, healthtech, and policy-aware engineering
+- 📬 Reach out → Let's collaborate, innovate, and Carpe Diem together.
+
+---
+
