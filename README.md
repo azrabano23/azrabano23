@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Azra Bano
 
 🚀 Software Engineer | 🔬 R1 Researcher | 🧠 Ethical AI Advocate | 👩🏻‍💻 Rutgers Engineer  
-🌐 Building across AI, finance, healthcare, and wearables — from Goldman Sachs to NASA.
+🌐 Building across AI, finance, healthtech, wireless networks, and AR/VR — from Goldman Sachs to NASA to WINLAB.
 
 [![Website](https://img.shields.io/badge/Portfolio-azra--bano.com-blue?style=flat-square&logo=google-chrome)](https://azra-bano.com)
 [![Email](https://img.shields.io/badge/Email-ab2895@scarletmail.rutgers.edu-blue?style=flat-square&logo=gmail)](mailto:ab2895@scarletmail.rutgers.edu)
@@ -19,13 +19,35 @@ Hey GitHub 👋 I'm Azra — a builder, leader, and technologist passionate abou
 
 ---
 
+### 🧰 Tech Toolbox
+
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
+![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=c%2B%2B)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
+![Flask](https://img.shields.io/badge/-Flask-333?style=flat&logo=flask)
+![Unity](https://img.shields.io/badge/-Unity-333?style=flat&logo=unity)
+![Firebase](https://img.shields.io/badge/-Firebase-333?style=flat&logo=firebase)
+![AWS](https://img.shields.io/badge/-AWS-333?style=flat&logo=amazon-aws)
+![Azure](https://img.shields.io/badge/-Azure-333?style=flat&logo=microsoft-azure)
+![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
+![GitLab](https://img.shields.io/badge/-GitLab-333?style=flat&logo=gitlab)
+![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
+![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=mysql)
+![MATLAB](https://img.shields.io/badge/-MATLAB-333?style=flat&logo=mathworks)
+
+---
+
 ### 🌟 What I Bring to the Table
 
-- 💻 **Full-stack engineering** — React, Node.js, Flask, Firebase, SQL, Docker
-- 🤖 **AI/ML models** — LSTM, Reinforcement Learning, NLP, Recommendation Engines
-- 📊 **Data Science** — Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, PowerBI
-- 🔐 **Finance + Systems** — Java, C++, MATLAB, Git, AWS, Oracle SQL, Azure
-- 🔬 **Interdisciplinary depth** — R1 research, startup leadership, political advocacy
+- 💻 Full-stack + embedded software engineering
+- 🤖 AI/ML models — LSTM, RL agents, NLP pipelines
+- 📡 Wireless networking protocols — IP, ICP, TCP, RF design, spectrum analysis (via WINLAB)
+- 🧠 AR/VR + Human-centered tech — Unity3D, Meta Quest, MRTK, C#, Firebase-integrated backend
+- 🔬 Research-backed engineering — NSF + NASA projects, real-world deployment
+- 🛠 Tools: Figma, GitHub Actions, Google Cloud, REST APIs, OpenCV
 
 ---
 
@@ -33,35 +55,46 @@ Hey GitHub 👋 I'm Azra — a builder, leader, and technologist passionate abou
 
 | Project | One-liner |
 |--------|-----------|
-| 🧠 **OptiFund** | AI-based portfolio optimizer using Modern Portfolio Theory + Reinforcement Learning |
-| 🚗 **BMWise** | Stock simulator for BMW using ARIMA, LSTM, and sentiment data |
-| 🌿 **Elysian** | Wearable tech startup tracking skin biomarkers with nanotech sensors |
-| 🔥 **Beacon** | AI-powered wildfire detection using NASA data and Google Maps API |
-| 📈 **CureBytes** | Healthcare analytics model built at Rutgers Health Hackathon ($1K prize) |
-| 🗺 **RUMaps** | Java graph pathfinding engine for Rutgers campus navigation |
-| 🐾 **SmartCatIsland** | Simulation of autonomous cat agents making decisions with tree-based logic |
+| 🧠 **OptiFund** | AI-based portfolio optimizer using Modern Portfolio Theory + RL |
+| 🚗 **BMWise** | Stock simulator for BMW using ARIMA, LSTM, and Reddit sentiment |
+| 👕 **Elysian** | Wearable tech startup tracking skin biomarkers with nanotech sensors |
+| 🔥 **Beacon** | Wildfire detection system using AI + NASA data + Google Maps API |
+| 💬 **CureBytes** | Healthcare analytics dashboard built with AWS and GA4 for Rutgers Health |
+| 🗺 **RUMaps** | Java-based Rutgers campus navigator using custom pathfinding graph |
+| 🐾 **SmartCatIsland** | Agent-based decision system simulating autonomous animal behaviors |
+| 🌐 **AR Memory Bubbles** | Unity + Meta Quest AR project visualizing personal data in interactive 3D memory spaces |
 
 ---
 
-### 💡 GitHub Highlights
+### 🏅 Career Highlights
 
-- 🟢 20+ Repositories across simulations, data structures, AI, and full-stack projects
-- 💬 Languages used: Java • Python • JavaScript • C++ • SQL • Bash • HTML/CSS • R
-- 🌱 Actively contributing to open-source and building startup MVPs
+- 🏆 **Rutgers Health Hackathon Winner** – $1K prize (CureBytes)
+- 🔬 **WINLAB Research Fellow** – Wireless systems, IP stack, RF modeling
+- 🧪 **NASA / NSF / Yale Med** – R1 Researcher across hardware and AI
+- 🏛️ **Student Government Leader** – Representing 40,000+ Rutgers students
+- 💬 **Public Speaker** – MARK Conference, RSVP, IEEE, and innovation panels
+- 🚀 **Goldman Sachs SWE Intern** – Engineering First-Year Program
+
+---
+
+### 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azrabano23&layout=compact&theme=dracula)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=azrabano23&theme=dracula&hide_border=true)
 
 ---
 
 ### 📈 Contribution Activity (Last 30 Days)
-[![Azra's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=azrabano23&theme=rogue)](https://github.com/azrabano23)
+
+![Azra's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=azrabano23&theme=rogue)
 
 ---
 
-### ✨ Let’s Connect
+### 🤝 Let’s Connect
+
 I'm on a mission to **build for impact, lead with purpose**, and help shape the future of technology.
 
-- 🔭 Open to SWE roles, research positions, and impact-driven innovation fellowships
-- 🌐 Interests: Ethical AI, fintech, AR/VR, healthtech, and policy-aware engineering
-- 📬 Reach out → Let's collaborate, innovate, and Carpe Diem together.
-
----
+- 🔭 Seeking SWE internships, research, and product opportunities in NYC/SF
+- 🌐 Passionate about ethical AI, wireless systems, AR/VR, and accessible design
+- 📬 Let’s collaborate — and Carpe Diem, together.
 
