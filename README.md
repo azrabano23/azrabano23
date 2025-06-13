@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Azra Bano
 
-🚀 Software Engineer | 🔬 R1 Researcher | 🧠 Ethical AI Advocate | 👩🏻‍💻 Rutgers Engineer  
-🌐 Building across AI, finance, healthtech, wireless networks, and AR/VR — from Goldman Sachs to NASA to WINLAB.
+🚀 Full-Stack Software Engineer in FinTech, AI/ML, Healthcare | 🔬 R1 Researcher | 🧠 Ethical AI Advocate | 👩🏻‍💻 Rutgers School of Engineering 
+🌐 Building across AI, finance, healthtech, wireless networks, and AR/VR
 
 [![Website](https://img.shields.io/badge/Portfolio-azra--bano.com-blue?style=flat-square&logo=google-chrome)](https://azra-bano.com)
 [![Email](https://img.shields.io/badge/Email-ab2895@scarletmail.rutgers.edu-blue?style=flat-square&logo=gmail)](mailto:ab2895@scarletmail.rutgers.edu)
@@ -12,31 +12,83 @@
 ### 💼 About Me
 Hey GitHub 👋 I'm Azra — a builder, leader, and technologist passionate about creating **technology that listens, learns, and leads**.
 
-🛠 I'm a sophomore at Rutgers–New Brunswick, double majoring in **ECE + CS**, minoring in **PPE + Data Science**, and dreaming big:  
+🛠 I'm a sophomore at Rutgers–New Brunswick, double majoring in **ECE (Electrical & Computer Engineering) + CS (Computer Science)**, minoring in **Data Science & PPE (Philosophy, Politics, Financial Econ)**, and dreaming big about:  
 → Ethical AI that serves society — not just scales.
 
-**Fun Fact**: I'm a die-hard Celtics fan ☘️
+**Fun Fact**: I'm a die-hard Celtics fan ☘️ and love horse-back riding!
 
 ---
 
 ### 🧰 Tech Toolbox
+# 🧠 Technical Skills & Toolkits
+
+## 💻 Programming Languages
 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
 ![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=c%2B%2B)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript)
+![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=mysql)
+![MATLAB](https://img.shields.io/badge/-MATLAB-333?style=flat&logo=mathworks)
+![Bash](https://img.shields.io/badge/-Bash-333?style=flat&logo=gnubash)
+
+## 🌐 Web Development & Frameworks
 ![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
 ![Flask](https://img.shields.io/badge/-Flask-333?style=flat&logo=flask)
-![Unity](https://img.shields.io/badge/-Unity-333?style=flat&logo=unity)
-![Firebase](https://img.shields.io/badge/-Firebase-333?style=flat&logo=firebase)
+![Supabase](https://img.shields.io/badge/-Supabase-333?style=flat&logo=supabase)
+![Express.js](https://img.shields.io/badge/-Express.js-333?style=flat)
+
+## ☁️ Cloud, DevOps & Databases
 ![AWS](https://img.shields.io/badge/-AWS-333?style=flat&logo=amazon-aws)
 ![Azure](https://img.shields.io/badge/-Azure-333?style=flat&logo=microsoft-azure)
+![Firebase](https://img.shields.io/badge/-Firebase-333?style=flat&logo=firebase)
+![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
 ![GitLab](https://img.shields.io/badge/-GitLab-333?style=flat&logo=gitlab)
-![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
-![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=mysql)
-![MATLAB](https://img.shields.io/badge/-MATLAB-333?style=flat&logo=mathworks)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
+
+## 🕶️ AR/VR & Mixed Reality
+![Unity](https://img.shields.io/badge/-Unity-333?style=flat&logo=unity)
+![Meta Quest](https://img.shields.io/badge/-Meta%20Quest-333?style=flat)
+![Microsoft HoloLens](https://img.shields.io/badge/-Microsoft%20HoloLens-333?style=flat)
+![MRTK](https://img.shields.io/badge/-MRTK%20Toolkit-333?style=flat)
+![OpenXR](https://img.shields.io/badge/-OpenXR-333?style=flat)
+![Three.js](https://img.shields.io/badge/-Three.js-333?style=flat&logo=three.js)
+
+## 📶 Wireless & Networking
+![5G](https://img.shields.io/badge/-5G%20Networking-333?style=flat)
+![SDR](https://img.shields.io/badge/-Software%20Defined%20Radio-333?style=flat)
+![O-RAN](https://img.shields.io/badge/-O--RAN-333?style=flat)
+![OpenAirInterface](https://img.shields.io/badge/-OpenAirInterface-333?style=flat)
+![NetSim](https://img.shields.io/badge/-NetSim-333?style=flat)
+![NS3](https://img.shields.io/badge/-NS3%20Simulator-333?style=flat)
+![TCP/IP](https://img.shields.io/badge/-TCP%2FIP-333?style=flat)
+![Wireshark](https://img.shields.io/badge/-Wireshark-333?style=flat&logo=wireshark)
+
+## 📈 Data Science & Machine Learning
+![NumPy](https://img.shields.io/badge/-NumPy-333?style=flat&logo=numpy)
+![Pandas](https://img.shields.io/badge/-Pandas-333?style=flat&logo=pandas)
+![scikit-learn](https://img.shields.io/badge/-Scikit--Learn-333?style=flat&logo=scikit-learn)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-333?style=flat&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/-PyTorch-333?style=flat&logo=pytorch)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-333?style=flat)
+![Seaborn](https://img.shields.io/badge/-Seaborn-333?style=flat)
+
+## 🧪 Visualization & Analytics
+![Tableau](https://img.shields.io/badge/-Tableau-333?style=flat&logo=tableau)
+![Looker Studio](https://img.shields.io/badge/-Looker%20Studio-333?style=flat&logo=looker)
+
+## 🗃️ Big Data & Distributed Systems
+![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-333?style=flat&logo=apachespark)
+![Apache Hadoop](https://img.shields.io/badge/-Apache%20Hadoop-333?style=flat&logo=apache)
+![Kafka](https://img.shields.io/badge/-Apache%20Kafka-333?style=flat&logo=apachekafka)
+![Snowflake](https://img.shields.io/badge/-Snowflake-333?style=flat&logo=snowflake)
+![Airflow](https://img.shields.io/badge/-Apache%20Airflow-333?style=flat&logo=apacheairflow)
+![Databricks](https://img.shields.io/badge/-Databricks-333?style=flat&logo=databricks)
+
 
 ---
 
@@ -47,7 +99,7 @@ Hey GitHub 👋 I'm Azra — a builder, leader, and technologist passionate abou
 - 📡 Wireless networking protocols — IP, ICP, TCP, RF design, spectrum analysis (via WINLAB)
 - 🧠 AR/VR + Human-centered tech — Unity3D, Meta Quest, MRTK, C#, Firebase-integrated backend
 - 🔬 Research-backed engineering — NSF + NASA projects, real-world deployment
-- 🛠 Tools: Figma, GitHub Actions, Google Cloud, REST APIs, OpenCV
+- 🛠 Tools: Figma, GitHub Actions, Google Cloud, REST APIs
 
 ---
 
