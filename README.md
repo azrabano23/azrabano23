@@ -1,11 +1,30 @@
 # 👋 Hi, I'm Azra Bano
 
-🚀 Full-Stack Software Engineer in FinTech, AI/ML, Healthcare | 🔬 R1 Researcher | 🧠 Ethical AI Advocate | 👩🏻‍💻 Rutgers School of Engineering 
-🌐 Building across AI, finance, healthtech, wireless networks, and AR/VR
+🚀 **Full-Stack Software Engineer** in FinTech, AI/ML, Healthcare | 🔬 **R1 Researcher** | 🧠 **Ethical AI Advocate** | 👩🏻‍💻 **Rutgers School of Engineering**
 
-[![Website](https://img.shields.io/badge/Portfolio-azra--bano.com-blue?style=flat-square&logo=google-chrome)](https://azra-bano.com)
-[![Email](https://img.shields.io/badge/Email-ab2895@scarletmail.rutgers.edu-blue?style=flat-square&logo=gmail)](mailto:ab2895@scarletmail.rutgers.edu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Azra%20Bano-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/azrabano)
+💡 **Building technology that listens, learns, and leads** — from quantum physics education games to AR CAD systems that revolutionize design workflows
+
+[![Website](https://img.shields.io/badge/🌐_Portfolio-azra--bano.com-blue?style=for-the-badge&logo=google-chrome)](https://azra-bano.com)
+[![Email](https://img.shields.io/badge/📧_Email-ab2895@scarletmail.rutgers.edu-red?style=for-the-badge&logo=gmail)](mailto:ab2895@scarletmail.rutgers.edu)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Azra%20Bano-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/azrabano)
+
+---
+
+## 🚀 **Live Deployed Projects** — *Building for Impact*
+
+| 🎮 **Project** | 🌟 **Impact** | 🔗 **Live Demo** |
+|----------------|---------------|------------------|
+| **🌌 Quantum Escape Room** | Interactive quantum physics education reaching thousands | [🎯 Play Live](https://quantum-escape-room.vercel.app/) |
+| **🥽 HoloDraft AR CAD** | Revolutionary AR-first CAD editor for design teams | [🔧 View Demo](https://cad-editor-frontend-only.vercel.app/) |
+| **🔥 Beacon** | AI-powered wildfire detection using NASA satellite data | *Enterprise Deploy* |
+| **💬 CureBytes** | Healthcare analytics dashboard for Rutgers Health | *Healthcare Platform* |
+| **🌐 AR Memory Bubbles** | Unity + Meta Quest therapy for Alzheimer's patients | *VR Experience* |
+
+### 🏆 **Award-Winning Impact**
+- 🥇 **$1K Rutgers Health Hackathon Winner** (CureBytes)
+- 🔬 **NASA/NSF Research Fellow** at WINLAB
+- 🚀 **Goldman Sachs SWE Program** participant
+- 👑 **Student Government Leader** (40,000+ students)
 
 ---
 
