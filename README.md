@@ -22,9 +22,10 @@
 
 ### 🏆 **Award-Winning Impact**
 - 🥇 **$1K Rutgers Health Hackathon Winner** (CureBytes)
-- 🔬 **NASA/NSF Research Fellow** at WINLAB
-- 🚀 **Goldman Sachs SWE Program** participant
-- 👑 **Student Government Leader** (40,000+ students)
+- 🔬 **NASA/NSF Research Fellow**
+- 🥽 **AR/VR Intern** @ WINLAB
+- 🚀 **Goldman Sachs SWE Program** First-Year Team
+- 👑 **Student Government Elected Rep for School of Engineering** (40,000+ students)
 
 ---
 
