@@ -12,7 +12,7 @@
 ### 💼 About Me
 Hey GitHub 👋 I'm Azra — a builder, leader, and technologist passionate about creating **technology that listens, learns, and leads**.
 
-🛠 I'm a sophomore at Rutgers–New Brunswick, double majoring in **ECE (Electrical & Computer Engineering) + CS (Computer Science)**, minoring in **Data Science & PPE (Philosophy, Politics, Financial Econ)**, and dreaming big about:  
+🛠 I'm a rising sophomore at Rutgers–New Brunswick, majoring in **ECE (Electrical & Computer Engineering) + CS (Computer Science)**, minoring in **PPE (Philosophy, Politics, Financial Econ)**, and dreaming big about:  
 → Ethical AI that serves society — not just scales.
 
 **Fun Fact**: I'm a die-hard Celtics fan ☘️ and love horse-back riding!
@@ -134,7 +134,7 @@ Hey GitHub 👋 I'm Azra — a builder, leader, and technologist passionate abou
 - 🔬 **WINLAB Research Fellow** – Wireless systems, IP stack, RF modeling
 - 🧪 **NASA / NSF / Yale Med** – R1 Researcher across hardware and AI
 - 🏛️ **Student Government Leader** – Representing 40,000+ Rutgers students
-- 💬 **Public Speaker** – MARK Conference, RSVP, IEEE, and innovation panels
+- 💬 **Public Speaker** – MARK Conference, Road to Silicon Valley, IEEE, and innovation panels
 - 🚀 **Goldman Sachs SWE First Year Program** – Engineering First-Year Program
 
 ---
@@ -142,7 +142,6 @@ Hey GitHub 👋 I'm Azra — a builder, leader, and technologist passionate abou
 ### 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azrabano23&layout=compact&theme=dracula)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=azrabano23&theme=dracula&hide_border=true)
 
 ---
 
