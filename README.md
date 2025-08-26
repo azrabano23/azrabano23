@@ -138,22 +138,6 @@ I build technology that doesn't just work — it changes how people interact wit
 - **Performance:** 23% reduction in average walking time, 95% user satisfaction
 - Accessibility-first design with wheelchair routing and visual impairment support
 
-### **🤖 Neural Style Transfer Engine** — *Real-Time AI Art Generation*
-**PyTorch • CNNs • Style Transfer • GPU Optimization • Computer Vision**
-- Real-time neural style transfer processing 4K images in <2 seconds
-- **Technical Achievement:** Custom CNN architecture reducing inference time by 60%
-- GPU-optimized pipeline handling 100+ concurrent style transfer requests
-- **Innovation:** Novel perceptual loss function improving artistic quality by 40%
-- Deployed as API serving 10,000+ image generations daily
-
-### **🌐 Distributed Social Graph Analyzer** — *Large-Scale Network Analysis*
-**Apache Spark • Graph Theory • Distributed Computing • Social Networks**
-- Scalable system analyzing social network structures across 1M+ user connections
-- **Scale:** Processing 50GB+ graph data with PageRank and community detection
-- Real-time influence scoring and viral prediction algorithms
-- **Performance:** Sub-100ms query response on distributed cluster architecture
-- Applications in misinformation detection and content recommendation systems
-
 ---
 
 ### 🏅 Career Highlights
