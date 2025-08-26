@@ -1,10 +1,10 @@
-# 👋 I'm Azra — Builder, Researcher, Problem Solver
+# 👋 I'm Azra — Builder, Problem Solver, Visionary
 
-**Full-Stack Engineer • AI/ML Systems • Quantitative Finance • Research Fellow**
+**Full-Stack Engineer • AI/ML Systems • FinTech • Quant Finance • Research Fellow**
 
 I build technology that doesn't just work — it changes how people interact with the world. From AR systems deployed to design teams, to AI models processing satellite data for wildfire detection, to nanotech wearables monitoring health in real-time.
 
-**Currently:** Shipping products that scale. Previously: NASA Fellow, $1K hackathon winner, research published.
+**Currently:** Shipping products that scale. Previously: NASA Fellow, $1K hackathon winner. 
 
 [![Website](https://img.shields.io/badge/🌐_Portfolio-azra--bano.com-blue?style=for-the-badge&logo=google-chrome)](https://azra-bano.com)
 [![Email](https://img.shields.io/badge/📧_Email-ab2895@scarletmail.rutgers.edu-red?style=for-the-badge&logo=gmail)](mailto:ab2895@scarletmail.rutgers.edu)
@@ -12,10 +12,10 @@ I build technology that doesn't just work — it changes how people interact wit
 
 ---
 
-## 🚀 **Deployed Systems** — *Production Impact at Scale*
+## 🚀 *Production Impact at Scale*
 
 ### **🥽 HoloDraft** — *Browser-Based AR CAD Platform*
-**WebGL • Three.js • Real-Time Collaboration • 50K+ API Calls/Month**
+**WebGL • Three.js • Real-Time Collaboration**
 - Built AR-first 3D modeling platform handling 10+ concurrent users in real-time
 - Engineered WebGL renderer optimized for 60fps on mobile devices
 - **Impact:** Design teams report 40% faster iteration cycles
@@ -25,7 +25,6 @@ I build technology that doesn't just work — it changes how people interact wit
 **NASA API • Computer Vision • Geographic Analysis • 24/7 Monitoring**
 - Real-time wildfire detection processing NASA satellite data every 15 minutes
 - Custom ML pipeline achieving 94% accuracy on MODIS thermal anomaly data
-- **Scale:** Monitoring 2.3M square kilometers across Western US
 - *Enterprise deployment with local fire departments*
 
 ### **💬 CureBytes** — *Healthcare Analytics Dashboard*
@@ -34,12 +33,6 @@ I build technology that doesn't just work — it changes how people interact wit
 - Reduced average wait times by 23% across 3 clinical locations
 - **Recognition:** $1K Rutgers Health Hackathon Winner
 - *Production deployment at Rutgers Health Network*
-
-### **🌌 Quantum Escape Room** — *Educational Gaming Platform*
-**React • Physics Simulation • 5K+ Monthly Active Users**
-- Interactive quantum mechanics learning platform with real physics engine
-- **User Growth:** 380% increase in completion rates vs traditional coursework
-- [🎯 Play Live](https://quantum-escape-room.vercel.app/)
 
 ### 🏆 **Award-Winning Impact**
 - 🥇 **$1K Rutgers Health Hackathon Winner** (CureBytes)
