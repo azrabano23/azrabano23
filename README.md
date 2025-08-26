@@ -142,11 +142,6 @@ I build technology that doesn't just work — it changes how people interact wit
 
 ---
 
-### 📈 Contribution Activity (Last 30 Days)
-
-![Azra's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=azrabano23&theme=rogue)
-
----
 
 ## 💫 **Ready to Build Something Extraordinary?**
 
