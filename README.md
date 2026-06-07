@@ -1,180 +1,52 @@
-# 👋 I'm Azra — Builder, Problem Solver, Visionary
+# Azra Bano
 
-**Full-Stack Engineer • AI/ML Systems • FinTech • Quant Finance • Research Fellow**
+Empirical ML researcher and engineer. SWE @ Google Ads, ex-NASA, Goldman Sachs. Bi-coaster (SF & NJ). 10x Hackathon Winner. ECE (Electrical & Computer Engineering) + Math at Rutgers-New Brunswick. I work on safe, interpretable AI: LLM evaluation infrastructure, quantum-inspired learning, and multimodal medical imaging.
 
-I build technology that doesn't just work — it changes how people interact with the world. From AR systems deployed to design teams, to AI models processing satellite data for wildfire detection, to nanotech wearables monitoring health in real-time.
+Currently at **Google** (Ads AI/ML), **NASA** (swarm robotics for lunar infrastructure), and **Columbia Center for AI** (quantum ML research). Founder of the **Grey Matter Society** at Yale School of Medicine — 150+ chapters worldwide.
 
-**Currently:** Shipping products that scale. Previously: NASA Fellow, $1K hackathon winner. 
-
-[![Website](https://img.shields.io/badge/🌐_Portfolio-azra--bano.com-blue?style=for-the-badge&logo=google-chrome)](https://azra-bano.com)
-[![Email](https://img.shields.io/badge/📧_Email-ab2895@scarletmail.rutgers.edu-red?style=for-the-badge&logo=gmail)](mailto:ab2895@scarletmail.rutgers.edu)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Azra%20Bano-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/azrabano)
+**$5.5M raised** across projects with NEC, Nokia, Google, Qualcomm, Robert Wood Johnson Hospital.
 
 ---
 
-## 🚀 **Flagship Projects** — *Production Systems at Scale*
+### Currently
 
-### **🤖 OptiFund** — *Quantitative Portfolio Optimizer*
-**Python • TensorFlow • Modern Portfolio Theory • Reinforcement Learning**
-- AI-driven portfolio optimization using MPT + deep RL algorithms
-- **Performance:** 23% higher Sharpe ratio vs benchmark S&P 500
-- Real-time risk analysis processing 500+ assets with <50ms latency
-- Deployed quantitative models handling $2.5M+ simulated capital
-- [🔗 View Project](https://github.com/azrabano23/OptiFund)
+- **Google Ads · YouTube AI/ML** — Simulation-based forecasting in Python and C++ across 20K+ advertising entities, on distributed infrastructure scaling toward 50M+ simulated user-query scenarios.
+- **Swarm Robotics Intelligence Project · NASA-funded, Rutgers** — Decentralized, fault-tolerant multi-agent software for a heterogeneous robotic swarm; autonomous coordination and self-assembly for lunar infrastructure. Delivering technical reviews directly to NASA stakeholders.
+- **Columbia Center for AI · IEEE · INNS** — First-author empirical ML research benchmarking quantum-inspired and classical optimization methods on noisy medical-imaging data.
+- **Founder & President · Grey Matter Society** — Yale School of Medicine. 150+ chapters globally.
 
-### **🔥 Beacon** — *AI Wildfire Detection System*
-**NASA MODIS API • Computer Vision • TensorFlow • Geographic Analysis**
-- Real-time wildfire detection processing NASA satellite data every 15 minutes
-- **ML Performance:** 94.3% accuracy on thermal anomaly classification
-- **Scale:** Monitoring 2.3M square kilometers across Western US
-- Custom CNN pipeline processing 10GB+ satellite imagery daily
-- *Deployed with California fire departments for early warning*
+### Earlier this year
 
-### **🥽 HoloDraft** — *AR-First CAD Platform*
-**WebGL • Three.js • React • WebRTC • Real-Time Collaboration**
-- Browser-based AR 3D modeling platform supporting 15+ concurrent users
-- **Performance:** 60fps WebGL renderer optimized for mobile devices
-- **Impact:** Design teams report 40% faster iteration cycles
-- Real-time collaborative editing with conflict resolution algorithms
-- [🔧 Live Demo](https://cad-editor-frontend-only.vercel.app/)
-
-### **💬 CureBytes** — *Healthcare Analytics Platform*
-**AWS Lambda • PostgreSQL • React • GA4 • HIPAA Compliant**
-- Patient flow optimization processing 1,000+ daily interactions
-- **Impact:** 23% reduction in average wait times across 3 locations
-- Real-time dashboard serving 50+ healthcare professionals
-- **Recognition:** $1K First Place - Rutgers Health Hackathon
-- *Production deployment at Rutgers Health Network*
-
-### **🧠 Elysian** — *Nanotech Wearable Startup*
-**IoT • Embedded Systems • Signal Processing • Mobile App**
-- Wearable tech monitoring skin biomarkers via embedded nanosensors
-- Real-time health data analysis with predictive ML models
-- **Innovation:** Non-invasive continuous glucose monitoring
-- Mobile app serving personalized health insights to beta users
-
-### 🏆 **Award-Winning Impact**
-- 🥇 **$1K Rutgers Health Hackathon Winner** (CureBytes)
-- 🔬 **NASA/NSF Research Fellow**
-- 🥽 **AR/VR Intern** @ WINLAB
-- 🚀 **Goldman Sachs SWE Program** First-Year Team
-- 👑 **Student Government Elected Rep for School of Engineering** (40,000+ students)
+- **NASA SpaceTech · L'Space Academy** — Led systems architecture for *InnerSolace*, an AI circadian-rhythm modeling platform simulating 100+ mission-day scenarios across orbital and polar environments. **1st nationally**.
+- **Goldman Sachs · SWE Emerging Leader** — Selected first-year cohort. Backend prototyping for low-latency, high-throughput data pipelines; performance and reliability tradeoffs in production-grade systems.
+- **WINLAB (Wireless Information Network Lab)** — Real-time simulation and telemetry infrastructure for XR systems. Asynchronous data pipelines, structured logging, distributed tracing.
+- **National Science Foundation · Princeton** — Cross-platform backend translating insights from 40+ user interviews into measurable reliability improvements for financial systems.
 
 ---
 
----
+### Selected work
 
-## 💡 **Core Expertise**
+**Quantum ML for AML detection** · [arXiv:2601.18710](https://arxiv.org/abs/2601.18710)
+First-author publication, January 2026. Equilibrium Propagation reached **86.4% accuracy without backpropagation**; a 4-qubit Variational Quantum Circuit held **83% with 5× less training data**. Established reproducible QML baselines on the 18,365-image AML-Cytomorphology dataset. Rutgers + Columbia.
 
-**System Design** • Building distributed systems that handle millions of data points daily  
-**ML Engineering** • Production ML pipelines with 90%+ accuracy on real-world datasets  
-**Full-Stack** • React/Node.js apps serving 50K+ users with <200ms response times  
-**Research** • Published work in wireless systems and computer vision applications  
+**Aurelis** — Scalable, automated evaluation infrastructure for systematic LLM and model prompt testing. Reproducible benchmarking and experiment management.
 
-**Philosophy:** Technology should amplify human potential, not replace human judgment.
+**EndoDetect** — Multimodal ML pipelines on medical-imaging data with signal extraction and models for clinical decision support. Endometriosis screening.
 
----
+**Fitra** · [repo](https://github.com/azrabano23/alifsideprojectsnight)
+Circadian-optimization app for Muslims. The five prayers are treated as immovable anchors; everything else — sleep, nap, caffeine cutoff, peak focus — is optimized around them. Two-process sleep model, live recompute, present mode.
 
-## 🔧 **Technical Stack**
-
-### **System Design & Architecture**
-![Distributed Systems](https://img.shields.io/badge/-Distributed%20Systems-333?style=flat&logo=microsoftazure)  ![Microservices](https://img.shields.io/badge/-Microservices-333?style=flat)  ![Load Balancing](https://img.shields.io/badge/-Load%20Balancing-333?style=flat)
-
-### **Languages** 
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python) ![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=c%2B%2B) ![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java) ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript) ![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=postgresql) ![MATLAB](https://img.shields.io/badge/-MATLAB-333?style=flat&logo=mathworks)
-
-### **Machine Learning & AI**
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-333?style=flat&logo=tensorflow) ![PyTorch](https://img.shields.io/badge/-PyTorch-333?style=flat&logo=pytorch) ![scikit-learn](https://img.shields.io/badge/-Scikit--Learn-333?style=flat&logo=scikit-learn) ![Pandas](https://img.shields.io/badge/-Pandas-333?style=flat&logo=pandas) ![NumPy](https://img.shields.io/badge/-NumPy-333?style=flat&logo=numpy)
-
-### **Cloud & Infrastructure**
-![AWS](https://img.shields.io/badge/-AWS-333?style=flat&logo=amazon-aws) ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-333?style=flat&logo=googlecloud) ![Azure](https://img.shields.io/badge/-Azure-333?style=flat&logo=microsoft-azure) ![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333?style=flat&logo=kubernetes)
-
-### **Data Engineering**
-![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-333?style=flat&logo=apachespark) ![Kafka](https://img.shields.io/badge/-Apache%20Kafka-333?style=flat&logo=apachekafka) ![Airflow](https://img.shields.io/badge/-Apache%20Airflow-333?style=flat&logo=apacheairflow) ![Snowflake](https://img.shields.io/badge/-Snowflake-333?style=flat&logo=snowflake)
-
-### **Full-Stack Development**
-![React](https://img.shields.io/badge/-React-333?style=flat&logo=react) ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql) ![Redis](https://img.shields.io/badge/-Redis-333?style=flat&logo=redis)
-
-### **AR/VR & Graphics**
-![Unity](https://img.shields.io/badge/-Unity-333?style=flat&logo=unity) ![Three.js](https://img.shields.io/badge/-Three.js-333?style=flat&logo=three.js) ![WebGL](https://img.shields.io/badge/-WebGL-333?style=flat) ![Meta Quest](https://img.shields.io/badge/-Meta%20Quest-333?style=flat)
-
+**AeroBin** — Multi-sensor, edge-compute system for smart-waste infrastructure. **1st Place, national Verizon Smart Campus Competition** (NEC · Nokia · Google · Qualcomm).
 
 ---
 
-### 🌟 What I Bring to the Table
+### Recognition
 
-- 💻 Full-stack + embedded software engineering
-- 🤖 AI/ML models — LSTM, RL agents, NLP pipelines
-- 📡 Wireless networking protocols — IP, ICP, TCP, RF design, spectrum analysis (via WINLAB)
-- 🧠 AR/VR + Human-centered tech — Unity3D, Meta Quest, MRTK, C#, Firebase-integrated backend
-- 🔬 Research-backed engineering — NSF + NASA projects, real-world deployment
-- 🛠 Tools: Figma, GitHub Actions, Google Cloud, REST APIs
+- 1st nationally — NASA SpaceTech Competition
+- 1st Place national — Verizon Smart Campus Competition (AeroBin)
+- Rutgers Innovation Award · Outstanding Student Leader (20 of 60K+)
+- Elected Representative to 40K+ students — Rutgers School of Engineering · RUSA
 
 ---
 
-## 🎆 **Additional Impact Projects**
-
-### **🚗 BMWise** — *Multi-Modal Financial AI System*
-**Python • LSTM • ARIMA • Reddit API • NLP • Time Series Analysis**
-- Hybrid AI system combining technical analysis with social sentiment for stock prediction
-- **Performance:** 18% higher accuracy than baseline models, 0.73 Sharpe ratio
-- Real-time sentiment analysis processing 15,000+ Reddit posts/day with transformer models
-- Advanced ensemble: ARIMA time series + LSTM neural networks + sentiment weighting
-- **Innovation:** Multi-modal fusion of structured financial data + unstructured social signals
-
-### **🧠 Project Reverie** — *AR Cognitive Rehabilitation Platform*
-**Unity • MRTK • Microsoft HoloLens • Computer Vision • Healthcare AI**
-- AR/VR therapy platform using spatialized "memory bubbles" for Alzheimer's treatment
-- **Clinical Impact:** 35% improvement in memory recall tests with 12 beta patients
-- Advanced gesture recognition and eye-tracking for hands-free interaction
-- Personalized AI algorithms adapting therapy based on cognitive response patterns
-- **Recognition:** Featured at Yale Medical School Digital Health Innovation Summit
-
-### **🗺 RUMaps** — *Intelligent Campus Navigation*
-**Java • Graph Theory • A* Algorithm • Real-Time APIs • Mobile**
-- Smart pathfinding system serving 40,000+ students with dynamic route optimization
-- **Algorithm Innovation:** Hybrid Dijkstra + A* with real-time crowd density weighting
-- Machine learning for predicting optimal routes based on class schedules and weather
-- **Performance:** 23% reduction in average walking time, 95% user satisfaction
-- Accessibility-first design with wheelchair routing and visual impairment support
-
----
-
-### 🏅 Career Highlights
-
-- 🏆 **Rutgers Health Hackathon Winner** – $1K prize (CureBytes)
-- 🔬 **WINLAB Research Fellow** – Wireless systems, IP stack, RF modeling
-- 🧪 **NASA / NSF / Yale Med** – R1 Researcher across hardware and AI
-- 🏛️ **Student Government Leader** – Representing 40,000+ Rutgers students
-- 💬 **Public Speaker** – MARK Conference, Road to Silicon Valley, IEEE, and innovation panels
-- 🚀 **Goldman Sachs SWE First Year Program** – Engineering First-Year Program
-
----
-
-### 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azrabano23&layout=compact&theme=dracula)
-
----
-
-
-## 💫 **Ready to Build Something Extraordinary?**
-
-I'm not just looking for my next opportunity — I'm looking for teams who understand that the most impactful technology comes from the intersection of **deep technical expertise** and **genuine human empathy**.
-
-**What I bring to your team:**
-- 🏆 **Proven track record** — Products deployed at scale with measurable impact
-- 🧠 **Cross-domain expertise** — From ML systems to quantum simulations to financial models
-- 🚀 **Startup mindset** — Move fast, ship quality, iterate based on real user feedback
-- 🌍 **Global perspective** — Technology that works for everyone, not just Silicon Valley
-
-**Let's talk if you're:**
-- Building products that will be used by millions
-- Tackling problems where the solution doesn't exist yet
-- Creating technology that makes people's lives genuinely better
-- Looking for someone who codes like an engineer and thinks like a founder
-
-[📫 **Email me**](mailto:ab2895@scarletmail.rutgers.edu) • [🔗 **LinkedIn**](https://linkedin.com/in/azrabano) • [🌐 **Portfolio**](https://azra-bano.com)
-
-*"The best time to plant a tree was 20 years ago. The second best time is now."*
-
+[portfolio](https://azra-bano.com) · [linkedin](https://linkedin.com/in/meetazrabano) · [arxiv](https://arxiv.org/abs/2601.18710) · [gitlab](https://gitlab.orbit-lab.org/azrabano) · [email](mailto:azra.bano@rutgers.edu)
