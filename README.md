@@ -26,17 +26,29 @@ Currently at **Google** (Ads AI/ML), **NASA** (swarm robotics for lunar infrastr
 
 ### Selected work
 
-**Quantum ML for AML detection** · [arXiv:2601.18710](https://arxiv.org/abs/2601.18710)
-First-author publication, January 2026. Equilibrium Propagation reached **86.4% accuracy without backpropagation**; a 4-qubit Variational Quantum Circuit held **83% with 5× less training data**. Established reproducible QML baselines on the 18,365-image AML-Cytomorphology dataset. Rutgers + Columbia.
+**Quantum ML for AML detection** · [arXiv:2601.18710](https://arxiv.org/abs/2601.18710) · [code](https://github.com/azrabano23/quantum-blood-cell-classification)
+First-author publication, January 2026. Equilibrium Propagation reached **86.4% accuracy without backpropagation**; a 4-qubit Variational Quantum Circuit held its accuracy with **5× less training data**. Established reproducible QML baselines on the 18,365-image AML-Cytomorphology dataset. Rutgers + Columbia.
 
-**Aurelis** — Scalable, automated evaluation infrastructure for systematic LLM and model prompt testing. Reproducible benchmarking and experiment management.
+**[Aurelis](https://github.com/azrabano23/aurelis)** — Reproducible LLM-as-judge evaluation infrastructure: it grades clinical notes against a rubric and *validates the AI grader against human faculty* (quadratic-weighted kappa, Pearson) on real ACI-Bench data — applied scalable oversight, with a content-addressed cache for byte-identical reruns.
 
-**EndoDetect** — Multimodal ML pipelines on medical-imaging data with signal extraction and models for clinical decision support. Endometriosis screening.
+**[Thaakat](https://github.com/azrabano23/thaakat)** (EndoDetect) — Multimodal radiomics decision-support for endometriosis: an EfficientNet + XGBoost ensemble on pelvic MRI with Grad-CAM explanations, behind a strict non-diagnostic boundary.
+
+**[Circa](https://github.com/azrabano23/circa)** — *InnerSolace*, productized: a chronotype-aware scheduler built on a tested two-process alertness model that places demanding work at your biological peak (recovers up to +203% modelled throughput for evening types vs. clock-blind scheduling).
+
+**[Robrick](https://github.com/azrabano23/robrick-selfassembly-algorithm)** — The NASA swarm self-assembly work as runnable, tested code: identical units build and self-heal a target structure from one neighbour-only local rule (decentralized gradient assembly, Kilobot-style).
 
 **Fitra** · [repo](https://github.com/azrabano23/alifsideprojectsnight)
 Circadian-optimization app for Muslims. The five prayers are treated as immovable anchors; everything else — sleep, nap, caffeine cutoff, peak focus — is optimized around them. Two-process sleep model, live recompute, present mode.
 
-**AeroBin** — Multi-sensor, edge-compute system for smart-waste infrastructure. **1st Place, national Verizon Smart Campus Competition** (NEC · Nokia · Google · Qualcomm).
+**[AeroBin](https://github.com/azrabano23/AeroBin)** + **[routing engine](https://github.com/azrabano23/aerobin-routing)** — Multi-sensor, edge-compute smart-waste system; the prediction + optimization engine cuts wasteful pickups from **87% → 0.5%** and servicing events **−70%**. **1st Place, national Verizon Smart Campus Competition** (NEC · Nokia · Google · Qualcomm).
+
+---
+
+### Open-source & AI-safety contributions
+
+- **[TransformerLens #1369](https://github.com/TransformerLensOrg/TransformerLens/pull/1369)** — a Direct Logit Attribution tool for mechanistic interpretability.
+- **[SAELens #697](https://github.com/decoderesearch/SAELens/pull/697)** — covariance-whitening normalization for training sparse autoencoders.
+- **[Inspect Evals #1765](https://github.com/UKGovernmentBEIS/inspect_evals/pull/1765)** — registering the **MedCalc-Bench** medical-reasoning benchmark in the UK AI Safety Institute's evaluation framework.
 
 ---
 
