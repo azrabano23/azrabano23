@@ -26,10 +26,12 @@ Currently at **Google** (Ads AI/ML), **NASA** (swarm robotics for lunar infrastr
 
 ### Selected work
 
+**[cross-sae](https://github.com/azrabano23/cross-sae)** — Interpretability: do vision transformers and the human visual cortex share the *same* features? Trains sparse autoencoders on both a ViT and human brain responses to the same images, then matches features across domains under **false-discovery-rate control** (Model-X knockoffs). The cross-domain feature match is an honest null at current SAE capacity — with a diagnostic (RSA ρ = 0.155, p = 0.0005) showing the shared structure is real and recoverable. Error-controlled, self-correcting empirical interpretability.
+
 **Quantum ML for AML detection** · [arXiv:2601.18710](https://arxiv.org/abs/2601.18710) · [code](https://github.com/azrabano23/quantum-blood-cell-classification)
 First-author publication, January 2026. Equilibrium Propagation reached **86.4% accuracy without backpropagation**; a 4-qubit Variational Quantum Circuit held its accuracy with **5× less training data**. Established reproducible QML baselines on the 18,365-image AML-Cytomorphology dataset. Rutgers + Columbia.
 
-**[Aurelis](https://github.com/azrabano23/aurelis)** — Reproducible LLM-as-judge evaluation infrastructure: it grades clinical notes against a rubric and *validates the AI grader against human faculty* (quadratic-weighted kappa, Pearson) on real ACI-Bench data — applied scalable oversight, with a content-addressed cache for byte-identical reruns.
+**[Aurelis](https://github.com/azrabano23/aurelis)** — Reproducible LLM-as-judge evaluation infrastructure: it grades clinical notes against a rubric and *validates the AI grader against human reference scores* (quadratic-weighted kappa, Pearson) on real ACI-Bench clinical notes — applied scalable oversight, with a content-addressed cache for byte-identical reruns.
 
 **[Thaakat](https://github.com/azrabano23/thaakat)** (EndoDetect) — Multimodal radiomics decision-support for endometriosis: an EfficientNet + XGBoost ensemble on pelvic MRI with Grad-CAM explanations, behind a strict non-diagnostic boundary.
 
