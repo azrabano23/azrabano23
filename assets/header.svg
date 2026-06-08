@@ -1,0 +1,28 @@
+<svg width="900" height="180" viewBox="0 0 900 180" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Azra Bano — Empirical ML Researcher and Engineer">
+  <defs>
+    <linearGradient id="redline" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ff2b2b"/>
+      <stop offset="100%" stop-color="#7a0010"/>
+    </linearGradient>
+  </defs>
+
+  <!-- solid black panel -->
+  <rect width="900" height="180" fill="#0a0a0a"/>
+  <!-- thin red frame accents -->
+  <rect x="0" y="0" width="900" height="4" fill="#ff2b2b"/>
+  <rect x="0" y="176" width="900" height="4" fill="#7a0010"/>
+
+  <!-- name -->
+  <text x="60" y="92" font-family="Helvetica, Arial, sans-serif" font-size="58" font-weight="bold"
+        letter-spacing="6" fill="#ff2b2b">AZRA BANO</text>
+
+  <!-- red underline (visible by default, animates in where supported) -->
+  <rect x="62" y="108" width="380" height="3" fill="url(#redline)">
+    <animate attributeName="width" from="0" to="380" dur="1.1s" begin="0.2s" fill="freeze"
+             keySplines="0.2 0.8 0.2 1" calcMode="spline" keyTimes="0;1" values="0;380"/>
+  </rect>
+
+  <!-- subtitle -->
+  <text x="64" y="140" font-family="'Courier New', monospace" font-size="17" letter-spacing="3"
+        fill="#e5e5e5">EMPIRICAL&#160;ML&#160;RESEARCHER&#160;&#183;&#160;ENGINEER</text>
+</svg>

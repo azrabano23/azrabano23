@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:6e0000,100:c1121f&height=200&section=header&text=Azra%20Bano&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Empirical%20ML%20Researcher%20%C2%B7%20Engineer&descAlignY=58&descSize=18&descColor=ff5c5c&animation=fadeIn" width="100%" alt="Azra Bano" />
+<img src="https://raw.githubusercontent.com/azrabano23/azrabano23/main/assets/header.svg" width="100%" alt="Azra Bano — Empirical ML Researcher and Engineer" />
 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&pause=900&color=ff2b2b&center=true&vCenter=true&width=620&height=42&duration=3200&lines=Google+Ads+AI%2FML+%C2%B7+ex-NASA+%C2%B7+Goldman+Sachs;Safe%2C+interpretable+AI+%E2%80%94+research+to+runnable+code;Founder%2C+Grey+Matter+Society+%40+Yale+%C2%B7+150%2B+chapters" alt="Subtitle" />
 
