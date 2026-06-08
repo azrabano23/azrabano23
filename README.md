@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:070c18,50:0b1220,100:1e3a5f&height=200&section=header&text=Azra%20Bano&fontColor=F5C451&fontSize=58&fontAlignY=38&desc=Empirical%20ML%20Researcher%20%C2%B7%20Engineer&descAlignY=58&descSize=18&descColor=cbd5e1&animation=fadeIn" width="100%" alt="Azra Bano" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:6e0000,100:c1121f&height=200&section=header&text=Azra%20Bano&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Empirical%20ML%20Researcher%20%C2%B7%20Engineer&descAlignY=58&descSize=18&descColor=ff5c5c&animation=fadeIn" width="100%" alt="Azra Bano" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&pause=900&color=5eead4&center=true&vCenter=true&width=620&height=42&duration=3200&lines=Google+Ads+AI%2FML+%C2%B7+ex-NASA+%C2%B7+Goldman+Sachs;Safe%2C+interpretable+AI+%E2%80%94+research+to+runnable+code;Founder%2C+Grey+Matter+Society+%40+Yale+%C2%B7+150%2B+chapters" alt="Subtitle" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&pause=900&color=ff2b2b&center=true&vCenter=true&width=620&height=42&duration=3200&lines=Google+Ads+AI%2FML+%C2%B7+ex-NASA+%C2%B7+Goldman+Sachs;Safe%2C+interpretable+AI+%E2%80%94+research+to+runnable+code;Founder%2C+Grey+Matter+Society+%40+Yale+%C2%B7+150%2B+chapters" alt="Subtitle" />
 
 </div>
 
@@ -79,14 +79,14 @@ Circadian-optimization app for Muslims. The five prayers are treated as immovabl
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&pause=900&color=F5C451&center=true&vCenter=true&width=620&height=48&duration=3500&lines=Empirical+ML+research%2C+made+runnable;Safe%2C+interpretable+AI;Shipping+one+commit+at+a+time;SF+%E2%87%84+NJ+%E2%80%94+always+building" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&pause=900&color=ff2b2b&center=true&vCenter=true&width=620&height=48&duration=3500&lines=Empirical+ML+research%2C+made+runnable;Safe%2C+interpretable+AI;Shipping+one+commit+at+a+time;SF+%E2%87%84+NJ+%E2%80%94+always+building" alt="Typing animation" />
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0b1220?style=for-the-badge&logo=googlechrome&logoColor=F5C451)](https://azra-bano.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0b1220?style=for-the-badge&logo=linkedin&logoColor=F5C451)](https://linkedin.com/in/meetazrabano)
-[![arXiv](https://img.shields.io/badge/arXiv-0b1220?style=for-the-badge&logo=arxiv&logoColor=F5C451)](https://arxiv.org/abs/2601.18710)
-[![GitLab](https://img.shields.io/badge/GitLab-0b1220?style=for-the-badge&logo=gitlab&logoColor=F5C451)](https://gitlab.orbit-lab.org/azrabano)
-[![Email](https://img.shields.io/badge/Email-0b1220?style=for-the-badge&logo=gmail&logoColor=F5C451)](mailto:azra.bano@rutgers.edu)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=googlechrome&logoColor=ff2b2b)](https://azra-bano.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=ff2b2b)](https://linkedin.com/in/meetazrabano)
+[![arXiv](https://img.shields.io/badge/arXiv-0a0a0a?style=for-the-badge&logo=arxiv&logoColor=ff2b2b)](https://arxiv.org/abs/2601.18710)
+[![GitLab](https://img.shields.io/badge/GitLab-0a0a0a?style=for-the-badge&logo=gitlab&logoColor=ff2b2b)](https://gitlab.orbit-lab.org/azrabano)
+[![Email](https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=ff2b2b)](mailto:azra.bano@rutgers.edu)
 
 </div>
