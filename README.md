@@ -1,10 +1,7 @@
 <img src="https://raw.githubusercontent.com/azrabano23/azrabano23/main/assets/header.svg" width="100%" alt="circadian alertness curve — the two-process model" />
 
-ECE + math at Rutgers ('27) · SWE @ Google (Ads AI/ML) · prev. NASA, Goldman Sachs, Columbia AI · first-author, [arXiv:2601.18710](https://arxiv.org/abs/2601.18710) · founded the Grey Matter Society @ Yale School of Medicine.
-
-I distrust my own results until they survive scrutiny — false-discovery-rate control, leave-one-subject-out splits, confidence intervals — and I report the null results most people bury.
-
-### numbers I'll defend
+ECE + math at Rutgers ('27) · SWE @ Google (Ads AI/ML) · prev. NASA, Goldman Sachs, Columbia AI · first-author, [arXiv:2601.18710](https://arxiv.org/abs/2601.18710) ·
+### numbers 
 
 | | |
 |--:|---|
