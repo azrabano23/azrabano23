@@ -10,9 +10,32 @@ I care about measurements that survive scrutiny — false-discovery-rate control
 
 ### now
 
-- **interpretability & evals** — [interp](https://github.com/azrabano23/interp) · [evalkit](https://github.com/azrabano23/evalkit) · [steering-audit](https://github.com/azrabano23/steering-audit) · [cross-sae](https://github.com/azrabano23/cross-sae) — with upstream PRs to [TransformerLens](https://github.com/TransformerLensOrg/TransformerLens/pull/1369), [SAELens](https://github.com/decoderesearch/SAELens/pull/697), [UK AISI Inspect](https://github.com/UKGovernmentBEIS/inspect_evals/pull/1765), MONAI, garak
+- **interpretability & evals** — [interp](https://github.com/azrabano23/interp) · [evalkit](https://github.com/azrabano23/evalkit) · [steering-audit](https://github.com/azrabano23/steering-audit) · [cross-sae](https://github.com/azrabano23/cross-sae) — plus upstream PRs to the field's infrastructure, below
 - **ML for medicine** — [thaakat](https://github.com/azrabano23/thaakat): endometriosis detection from pelvic MRI, AUC 0.961 on a patient-level split · [aurelis](https://github.com/azrabano23/aurelis): LLM-as-judge validated against human graders · [vigil](https://github.com/azrabano23/vigil): pilot cognitive state from EEG/ECG, honestly evaluated
 - **biological time** — the thread through everything: [circa](https://github.com/azrabano23/circa) · [rhythmrx](https://github.com/azrabano23/rhythmrx) · [fitra](https://github.com/azrabano23/alifsideprojectsnight) — the right intervention at the right circadian phase
+
+### open-source contributions
+
+Upstream work on the tools researchers actually run — mech-interp, eval rigor, and medical ML.
+
+**merged**
+
+- [TransformerLens #1369](https://github.com/TransformerLensOrg/TransformerLens/pull/1369) — direct logit attribution tool
+- [inspect_evals #1765](https://github.com/UKGovernmentBEIS/inspect_evals/pull/1765) (UK AI Security Institute) — MedCalc-Bench (NeurIPS 2024) ported to Inspect
+- [nnsight #671](https://github.com/ndif-team/nnsight/pull/671) — fix `MissedProviderError` in `.backward()` with multiple invokers
+
+**in review**
+
+- [SAELens #697](https://github.com/decoderesearch/SAELens/pull/697) — covariance-whitening normalization for SAE training
+- [MONAI #8905](https://github.com/Project-MONAI/MONAI/pull/8905) — make `NormalizeIntensity` invertible
+- [garak #1852](https://github.com/NVIDIA/garak/pull/1852) (NVIDIA) — NonEngagement detector
+- [pyvene #239](https://github.com/stanfordnlp/pyvene/pull/239) (Stanford NLP) — ELECTRA model support
+- [dynamo #13326](https://github.com/ai-dynamo/dynamo/pull/13326) (NVIDIA) — parse `DYN_LOG` filter directives when deriving engine log level
+- [dynamo #13318](https://github.com/ai-dynamo/dynamo/pull/13318) (NVIDIA) — repo-wide docs link and anchor repair
+
+**in discussion**
+
+- [lm-evaluation-harness #3080](https://github.com/EleutherAI/lm-evaluation-harness/issues/3080#issuecomment-5306101152) (EleutherAI) — design proposal for per-instance repeats aggregation with unbiased pass@k
 
 ### elsewhere
 
