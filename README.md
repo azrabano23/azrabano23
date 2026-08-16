@@ -4,6 +4,10 @@ ML researcher & engineer. ECE + math at Rutgers ('27) · SWE @ Google (Ads AI/ML
 
 I care about measurements that survive scrutiny — false-discovery-rate control, leave-one-subject-out splits, confidence intervals, and reporting the null results most people bury.
 
+### building
+
+- **Carbonium** ([neural-alloy](https://github.com/neural-alloy)) — co-founder, with [@RyanRana](https://github.com/RyanRana). Diagnosis-first AI for fleet sustainment: an abductive fault-diagnosis engine over maintenance data that names the failure *and* its evidence chain, evaluated with confounder traps so it can't bluff. Monorepo private — ask me for a walkthrough.
+
 ### now
 
 - **interpretability & evals** — [interp](https://github.com/azrabano23/interp) · [evalkit](https://github.com/azrabano23/evalkit) · [steering-audit](https://github.com/azrabano23/steering-audit) · [cross-sae](https://github.com/azrabano23/cross-sae) — with upstream PRs to [TransformerLens](https://github.com/TransformerLensOrg/TransformerLens/pull/1369), [SAELens](https://github.com/decoderesearch/SAELens/pull/697), [UK AISI Inspect](https://github.com/UKGovernmentBEIS/inspect_evals/pull/1765), MONAI, garak
