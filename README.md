@@ -1,8 +1,6 @@
-<img src="https://raw.githubusercontent.com/azrabano23/azrabano23/main/assets/header.svg" width="100%" alt="circadian alertness curve — the two-process model" />
+EECS + Math @ Rutgers. Previously @ Google (Ads Infra, AI/ML), NASA Swarm Robotics, Goldman Sachs, Columbia AI. First author of [arXiv:2601.18710](https://arxiv.org/abs/2601.18710). 
 
-ML researcher & engineer. ECE + math at Rutgers ('27) — not your average CS major (I'm Engineering). Previously: Google (Ads AI/ML), NASA, Goldman Sachs, Columbia AI. First author of [arXiv:2601.18710](https://arxiv.org/abs/2601.18710). Founder of the [Grey Matter Society](https://medicine.yale.edu/neurology/education/grey-matter-project/) at Yale School of Medicine.
-
-The thread through everything I build: measurements that survive scrutiny — leave-one-subject-out splits, false-discovery-rate control, confidence intervals on everything, and reporting the null results most people bury.
+Founder of the [Grey Matter Society](https://medicine.yale.edu/neurology/education/grey-matter-project/) at Yale School of Medicine, 150+ Global Chapters.
 
 ### now
 
@@ -13,7 +11,7 @@ The thread through everything I build: measurements that survive scrutiny — le
 
 ### upstream
 
-I'd rather fix the ruler than argue about the measurement. PRs to the tools researchers actually run —
+PRs to the tools researchers actually run —
 
 - **merged** · [TransformerLens](https://github.com/TransformerLensOrg/TransformerLens/pull/1369) — direct logit attribution · [inspect_evals](https://github.com/UKGovernmentBEIS/inspect_evals/pull/1765) (UK AI Security Institute) — MedCalc-Bench · [nnsight](https://github.com/ndif-team/nnsight/pull/671) — multi-invoker `.backward()` fix
 - **in review** · [MOABB](https://github.com/NeuroTechX/moabb/pull/1140) — Nadeau–Bengio corrected t-test, so EEG benchmarks stop reporting optimistic p-values · [braindecode](https://github.com/braindecode/braindecode/pull/1128) — spec-compliant zarr JSON · [Medplum](https://github.com/medplum/medplum/pull/10293) — GraphQL error semantics · [MONAI](https://github.com/Project-MONAI/MONAI/pull/8905) — invertible `NormalizeIntensity` · [SAELens](https://github.com/decoderesearch/SAELens/pull/697) — covariance whitening · [garak](https://github.com/NVIDIA/garak/pull/1852) — NonEngagement detector · [pyvene](https://github.com/stanfordnlp/pyvene/pull/239) — ELECTRA support · [dynamo](https://github.com/ai-dynamo/dynamo/pull/13326) ×[2](https://github.com/ai-dynamo/dynamo/pull/13318) · [SkyPilot](https://github.com/skypilot-org/skypilot/pull/10484) · [FlashInfer](https://github.com/flashinfer-ai/flashinfer/pull/4548)
