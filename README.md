@@ -1,1 +1,1 @@
-exhausting what's possible.
+parkinsons law maximizer
